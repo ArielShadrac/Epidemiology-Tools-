@@ -5,6 +5,7 @@ Please contribute to this list by pull request or leave me a comment.
 
 ## Table of Contents
 - [Epidemiology](#epidemiology)
+- [Web Tools](#web-tools) 
 - [Python](#python)
 - [R](#r)
 - [Stata](#stata)
@@ -28,6 +29,13 @@ Please contribute to this list by pull request or leave me a comment.
 
 #### Epidemiology Review Website
 - [Epi Tutorial](http://activepi.herokuapp.com/courses/active-epi-course)
+
+## Web Tools
+
+#### Epidemiology Calculators
+- [Wepisia](https://wepisia.vercel.app/) a complete 
+architectural rewrite of OpenEpi in React/TypeScript. 19 biostatistics modules (OpenEpi-validated),  multi-region epidemic simulation (SIR/SEIR/SEIRD), interactive geospatial mapping, in-browser R IDE via WebAssembly, PubMed explorer. Supports French, English, Mooré, Wolof, Swahili, Haoussa.
+
 
 ## Python
 
