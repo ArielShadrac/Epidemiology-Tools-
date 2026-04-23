@@ -31,8 +31,12 @@ Please contribute to this list by pull request or leave me a comment.
 
 ## Python
 
+
 #### Survival Analysis with Python
 - [Scikit Survival](https://github.com/sebp/scikit-survival)
+
+#### Epidemiology & Biostatistics
+- [Episia](https://github.com/Xcept-Health/episia) Open-source Python library for epidemiological surveillance, modeling (SIR/SEIR/SEIRD), biostatistics and automated reporting. Built for resource-limited settings in Africa.
 
 ## R
 
